@@ -1,0 +1,6 @@
+{
+    "laptop": [
+        {"id":1, "name": "asus", "image": "./image/t.jpg"},
+        {"id":2, "name": "mac", "image": "https://i.pinimg.com/736x/99/7c/2f/997c2f8af2c39f3e4551983f8f4536e9.jpg"}
+    ]
+}
